@@ -26,7 +26,7 @@ A powerful desktop application built with Python and Tkinter to assist users in 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/seo-smart-assistant.git
+   git clone https://github.com/Arash-Mansourpour/seo-smart-assistant.git
    cd seo-smart-assistant
    ```
 
